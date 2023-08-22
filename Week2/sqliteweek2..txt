@@ -72,8 +72,6 @@
 | id |  name   |   city    | mobile_no  |
 +----+---------+-----------+------------+
 | 1  | om      | buhari    | 9173641047 |
-| 9  | roshan  | vyra      | 9900887766 |
-| 10 | rajdeep | bardoli   | 9955664477 |
 | 2  | sai     | bardoli   | 9988776655 |
 | 3  | bhargav | surat     | 1100223344 |
 | 4  | parth   | kharvasha | 8866445533 |
@@ -81,6 +79,8 @@
 | 6  | dhruv   | bardoli   | 8800996677 |
 | 7  | kevin   | bardoli   | 9900668879 |
 | 8  | param   | surat     | 1100223344 |
+| 9  | rosan   | vyara     | 9900887766 |
+| 10 | rajdeep | bardoli   | 9955664477 |
 +----+---------+-----------+------------+
 
  
